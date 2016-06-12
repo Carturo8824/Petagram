@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="prating">5</string>
+    <string name="pnombre">Catty</string>
+    <string name="pFavoritos">Los favoritos</string>
+</resources>
