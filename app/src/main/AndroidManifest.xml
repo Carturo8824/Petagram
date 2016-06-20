@@ -15,18 +15,32 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MascotaFavorita"
+        <activity
+            android:name=".MascotaFavorita"
             android:parentActivityName=".MainActivity">
 
-            <!---Soporte para versiones 4.0 o menores -->
+            <!-- -Soporte para versiones 4.0 o menores -->
 
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity"></meta-data>
+                android:value=".MainActivity" />
+        </activity>
+        <activity android:name=".Contacto"
+            android:parentActivityName=".MainActivity">
+            <!-- -Soporte para versiones 4.0 o menores -->
 
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity android:name=".Acerca"
+            android:parentActivityName=".MainActivity">
+            <!-- -Soporte para versiones 4.0 o menores -->
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
         </activity>
     </application>
-
-
 
 </manifest>

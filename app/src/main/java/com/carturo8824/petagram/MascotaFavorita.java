@@ -7,6 +7,9 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 
+import com.carturo8824.petagram.adapter.MascotaAdaptador;
+import com.carturo8824.petagram.pojo.Mascota;
+
 import java.util.ArrayList;
 
 /**
@@ -51,11 +54,11 @@ public class MascotaFavorita extends AppCompatActivity {
 
     public void inicializarListaContactos(){
         mascotas = new ArrayList<Mascota>();
-        mascotas.add(new Mascota("Gato",R.drawable.cat_head_1821212,"5"));
-        mascotas.add(new Mascota("Perro 1",R.drawable.clifford_the_big_red_dog,"4"));
-        mascotas.add(new Mascota("Hipopotamo",R.drawable.cute_baby_hippopotamus_vector_566547,"3"));
-        mascotas.add(new Mascota("Perro 2",R.drawable.dog,"2"));
-        mascotas.add(new Mascota("Hampster",R.drawable.hamster,"1"));
-        mascotas.add(new Mascota("Pinguino",R.drawable.ping,"5"));
+        mascotas.add(new Mascota("Gato",R.drawable.cat_head_1821212,5));
+        mascotas.add(new Mascota("Perro 1",R.drawable.clifford_the_big_red_dog,4));
+        mascotas.add(new Mascota("Hipopotamo",R.drawable.cute_baby_hippopotamus_vector_566547,3));
+        mascotas.add(new Mascota("Perro 2",R.drawable.dog,2));
+        mascotas.add(new Mascota("Hampster",R.drawable.hamster,1));
+        mascotas.add(new Mascota("Pinguino",R.drawable.ping,5));
     }
 }

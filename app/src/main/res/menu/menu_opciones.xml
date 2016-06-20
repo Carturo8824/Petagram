@@ -6,5 +6,12 @@
         android:icon="@drawable/five_star_hotel_48"
         android:title="@string/pFavoritos"
         app:showAsAction="ifRoom"></item>
+    <item android:id="@+id/action_Contacto"
+        android:title="@string/action_Contacto"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_Acerca"
+        android:title="@string/action_Acerca"
+        app:showAsAction="never"/>
 
 </menu>

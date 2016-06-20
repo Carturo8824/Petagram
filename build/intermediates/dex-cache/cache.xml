@@ -1,3 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikhaellopez-circularimageview-3.0.2_023861df08f55e347934697e57c783fb3270c0a2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_b12d15330fd5c63b37a73dd767d6d7252b13135d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0fb821b234a61436a6fc7d7633e7acb8125185fc">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_892eb8807ad64324fbbf55a2a29e90aba53c2b07\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_ebd3f6375dc30f52c460986f6468b6f6200e3cf9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-activation\1.5.5\5442d5e05808145434b750c9f8a0c3f537383c5a\android-activation-1.5.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5442d5e05808145434b750c9f8a0c3f537383c5a">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-activation-1.5.5_0522fb65c552b6327fb28a06c489c89bf4a5aba2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_51917d69e708d48fdd4285e2ddc49553196de13b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_b6c9dabbff72a1a2c9df62c7cd65cc5bdc13f18f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a45a3e5a3d5b595513d96574874112666dc0ba86">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bcd102b54b4bc8d68428acb535f13b891f67be95\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_410048f84580e97b2f463a212da4d569855970cc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_49024b8a36c313894cb607f1816d5071203eee10\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_ed9d6e227611569b97ef4aaddf5e576af54e9e6a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_fefb113d1aaf2e5c652e238379e1eadab812ecc1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_435f17021d82a20e2500b947a015d29070a77696\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-mail\1.5.5\53a2f927b235acb565dbe9314ececfb7e6d43020\android-mail-1.5.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="53a2f927b235acb565dbe9314ececfb7e6d43020">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-mail-1.5.5_15f37d6c3bed24e45e4c6743d415c5f3e50d1ab6\classes.dex" />
+    </item>
+
+</items>

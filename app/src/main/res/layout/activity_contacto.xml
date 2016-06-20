@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.carturo8824.petagram.Contacto">
+
+    <include android:id="@+id/miActionBarContacto"
+        layout="@layout/actionbar"></include>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/formContacto"
+        android:layout_below="@id/miActionBarContacto"
+        android:orientation="vertical"
+        android:weightSum="1">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvNombreContacto"
+            android:text="@string/action_Contacto"
+            android:paddingTop="@dimen/padding"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/etNombreContacto"
+            android:hint="Nombre"
+            android:paddingTop="@dimen/padding"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvEmailContacto"
+            android:text="@string/action_Contacto"
+            android:paddingTop="@dimen/padding"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/etEmailContacto"
+            android:hint="Email"
+            android:paddingTop="@dimen/padding"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvAsuntoContacto"
+            android:text="@string/action_Contacto"
+            android:paddingTop="@dimen/padding"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/etAsuntoContacto"
+            android:hint="Asunto"
+            android:paddingTop="@dimen/padding"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvMensajeContacto"
+            android:text="@string/action_Contacto"
+            android:paddingTop="@dimen/padding"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:id="@+id/etMensajeContacto"
+            android:hint="Escriba su mensaje"
+            android:inputType="textMultiLine"
+            android:paddingTop="@dimen/padding"
+            android:layout_weight="1.07" />
+
+    </LinearLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enviar"
+        android:id="@+id/btEnviar"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+
+
+</RelativeLayout>

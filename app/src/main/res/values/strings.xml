@@ -3,4 +3,9 @@
     <string name="prating">5</string>
     <string name="pnombre">Catty</string>
     <string name="pFavoritos">Los favoritos</string>
+    <string name="action_Contacto">Contacto</string>
+    <string name="action_Acerca">Acerca de</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
